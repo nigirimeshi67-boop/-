@@ -1,0 +1,24 @@
+を評価する,賛成する,と述べる,（危険）を引き起こす,をもたらす,を示す，見せる,を（～に）分配する（to）,を命じる,（空間・時間）を占める,ひょいと動く,を積み重ねる,に挨拶する,（～に；～のことで）謝る（to；for）,をいら立たせる,を和らげる,由来する,に値する,（～を）じっと見る（at / into）,を負かす,を変える,と結婚する,を喜ばせる,を押し上げる,に耐える,一致する,を課す,を救う,を解決する,を記録する，登録する,を中断させる,から（～を）取り除く，除去する（of）を禁止する,を構成する,（を）誤解する,を罰する,をだめにする,を防御する,を受け入れる,を修正する,	（人）に資格を与える,情熱,（～への）熱情，熱意（for）,段階，局面,方式,期間,重力，引力,軌道,小惑星,精神,神経,感染（症）,モール，ショッピングセンター,食料雑貨,ユーモア,本能,（～への）信頼（in）,勇気,動機（づけ）,見込み,（～に対する）障害（物）（to）,建築,（草木の）茎，幹,錯覚，思い違い,（～に対する）差別（against）,恥,干ばつ,風味,部分,調理法，レシピ,ぜいたく（品）,小片，破片,儀式,のために，の目的で,（日本の）県，府,（地方）議会,管理（部),教育課程，カリキュラム
+879	precious	貴重な；高価な（≒ valuable）
+880	generous	寛大な；気前のよい（⇔ stingy けちな）；豊富な
+881	casual	何気ない；形式ばらない
+882	optimistic	楽観的な（⇔ pessimistic ⇒ 1593）
+883	rough	粗い；大まかな；乱暴な
+新	884	unpleasant	不愉快な；不親切な，無礼な
+885	Arctic	北極の（⇔ Antarctic 南極の）
+886	ultimate	究極の
+887	deaf	耳が聞こえない（≒ hard of hearing）
+888	genuine	 本物の（≒ authentic ⇒ 1580, real）；偽りのない
+889	manual	体［手］を使う；手の；手動式の
+890	mechanical	機械の；機械的な
+新	891	instant	即時の，すぐの；即席の
+892	spare	余分の，予備の
+893	immune	（～に対して）免疫を持つ（to）；（～を）免れた（from）
+894	harsh	厳しい；（光・色・味などが）不快な
+895	collective	集団の，共同の
+896	inevitable	避けられない
+897	profound	重大な；深い；難解な
+898	steady	着実な，一定の；安定した
+899	mature	成熟した（⇔ immature 未熟な）；熟した
+900	likewise	同様に（≒ in the same way）
+["assess","approve","remark","pose","yield","exhibit","distribute","command","occupy","pop","pile","greet","apologize","frustrate","relieve","derive","deserve","peer","defeat","convert","wed","delight","boost","endure","correspond","impose","rescue","resolve","register","interrupt","rid","prohibit","compose","misunderstand","punish","ruin","defend","embrace","modify","qualify","passion","enthusiasm","phase","mode","span","gravity","orbit","asteroid","core","soul","nerve","infection","mall","grocery","humor","instinct","faith","courage","incentive","prospect","obstacle","architecture","stem","illusion","discrimination","shame","drought","flavor","portion","recipe","luxury","chip","ritual","sake","prefecture","council","administration","curriculum","precious","generous","casual","optimistic","rough","unpleasant","Arctic","ultimate","deaf","genuine","manual","mechanical","instant","spare","immune","harsh","collective","inevitable","profound","steady","mature","likewise"]
